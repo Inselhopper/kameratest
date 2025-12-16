@@ -31,7 +31,7 @@
 // Enter your WiFi credentials
 // ===========================
 const char *ssid = "FRITZ!Box 7490";
-const char *password = "Hk@Qa%DF<AYS@JES";
+const char *password = "";
 
 
 void startCameraServer();
